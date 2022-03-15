@@ -1,0 +1,2 @@
+# :lighthouse: beacon
+## *issue management*
