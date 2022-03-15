@@ -1,2 +1,4 @@
-# :lighthouse: beacon
-## *issue management*
+# :flashlight: beacon
+## *issue management to bring light to projects*
+
+todo
